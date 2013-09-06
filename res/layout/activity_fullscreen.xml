@@ -6,6 +6,8 @@
     tools:context="co.uk.saltais.skegnessstandard.FullscreenActivity" >
 
 
+
+
     <TextView
         android:id="@+id/fullscreen_content"
         android:layout_width="match_parent"
