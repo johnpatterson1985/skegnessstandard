@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.0" versioncode="1">
+        <change>Fixed: A bug fix</change>
+        <change>Button appearance changed</change>
+        <change>Small layout change in the view item screen</change>
+    </release>    
+    
+</changelog>

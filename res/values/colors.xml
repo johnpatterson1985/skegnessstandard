@@ -1,0 +1,33 @@
+<resources>
+
+
+    <!-- holo colors -->
+    <color name="holo_gray">#464646</color>
+    <color name="holo_gray222222">#222222</color>
+    <color name="holo_gray333333">#333333</color>
+    <color name="holo_gray555555">#555555</color>
+    <color name="holo_red">#eb1313</color>
+    <color name="holo_green">#8bc53f</color>
+    <color name="holo_blue">#33b5e5</color>
+    <color name="holo_blue_lite">#7acdec</color>
+    <color name="holo_purple">#a466aa</color> 
+    <color name="holo_orange">#f7901e</color>
+    
+    <color name="white_ishf1">#f1f1f1</color>
+    <color name="white_ishf8">#f8f8f8</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="screen_background_dark_transparent">#80000000</color>
+    <color name="screen_background_light_transparent">#80ffffff</color>
+    
+    <!-- Cards -->
+    <color name="stroke">#dddddd</color>
+    <color name="text_light">#66000000</color>
+    <color name="card_text">#ff8d8d8d</color>
+    <color name="card_title_text">#ff707070</color>
+    <color name="card_light_text">#ffb5b5b5</color>
+    <color name="card_grid_text">#ff707070</color>
+    <color name="card_separator">#ffe5e5e5</color>
+    <color name="card_border">#ffdedede</color>
+    
+</resources>

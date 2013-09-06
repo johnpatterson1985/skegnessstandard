@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skegness Standard</string>
+    <string name="app_launcher_name">Standard</string>
+    <string name="blank_string"> </string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_button">Read Paper</string>
+    <string name="welcome_content">Skegness\nStandard</string>
+    
+    <!-- Menu -->
+    <string name="menu_gohome">Home</string>
+    <string name="menu_refresh_page">Refresh</string>
+    <string name="menu_email">Contact</string>
+    <string name="menu_exit">Exit</string>
+    
+    <!-- Buttons -->
+    <string name="button_accept">Accept</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_close">Close</string>
+    
+    
+    <!-- Toast strings -->
+    <string name="toast_wallpaper_set">Wallpaper Set</string>
+    <string name="toast_error">An Error occurred</string>
+    <string name="toast_refresh">Refreshing page...&#8230;</string>
+    <string name="toast_data_lead_error"> - No internet connection.</string>
+
+
+    <!-- Email Feedback -->
+    <string name="buttontext_simpleemail">Send plain text</string>
+	<string name="chooser">Send message using:</string>
+	<string name="chooser_pic">Send picture using:</string>
+	<string name="buttontext_simpleemail_chooser">Send a message (Choose app to send)</string>
+	<string name="buttontext_email">Send plaintext message (with supplied content)</string>
+	<string name="buttontext_msg_pic">Send picture msg (with supplied content)</string>
+	<string name="email_message">\n\n\n\n\n\n</string>
+	<string name="email_subject">Subject</string>
+	<string name="email_address">qpinnerapp@gmail.com</string>
+	<string name="email_address_cc">saltaisworks@gmail.com</string>
+	<string name="email_address_bcc">o.saltais@gmail.com</string>
+
+
+
+
+
+    <string name="tos_button">Terms of Use</string>
+    <string name="app_tos_header">Application Terms of Use &amp;</string>
+    <string name="app_tos_home_url">Link:\nhttp://m.skegnessstandard.co.uk</string>
+    <string name="app_tos_advertise_url">Terms and Conditions:\n http://www.johnstonpress.co.uk/terms-conditions</string>
+
+    <string name="app_tos_content1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel arcu libero, ac tempor diam. Quisque non fringilla massa. Nam eu mi risus. Integer magna diam, dapibus sollicitudin eleifend ornare, luctus nec arcu. Sed imperdiet sem ac sem placerat in pulvinar mauris porta. Cum sociis natoque penatibus et magnis dis parturient montes.
+
+    </string>
+
+    <string name="app_eula">End-user License Agreement</string>
+    
+
+</resources>

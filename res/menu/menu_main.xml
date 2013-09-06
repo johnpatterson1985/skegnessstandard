@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="co.uk.saltais.skegnessstandard.WebViewActivity" >
+
+    <item android:id="@+id/menu_refresh_page"
+          android:icon="@drawable/ic_action_menu_item_refresh"
+          android:title="Refresh"
+          android:showAsAction="always" />
+
+    <item android:id="@+id/menu_share"
+          android:icon="@drawable/menu_item_share"
+          android:title="Share"
+          android:showAsAction="always" />
+    
+    <item android:id="@+id/menu_gohome"
+          android:title="Home"
+          android:showAsAction="never"
+          android:visible="true"/>
+    
+    <item android:id="@+id/menu_news"
+          android:title="News"
+          android:showAsAction="never"
+          android:visible="false"/>
+    
+    <item android:id="@+id/menu_sport"
+          android:title="Sport"
+          android:showAsAction="never"
+          android:visible="false"/>
+    
+    <item android:id="@+id/menu_lifestyle"
+          android:title="Lifestyle"
+          android:showAsAction="never"
+          android:visible="false"/>
+    
+    <item android:id="@+id/menu_community"
+          android:title="Community"
+          android:showAsAction="never"
+          android:visible="false"/>
+
+    
+    <item android:id="@+id/menu_more"
+          android:title="More"
+          android:showAsAction="never" >
+          <menu>
+    
+    	<item android:id="@+id/menu_login"
+          		android:title="Login"
+          		android:showAsAction="never" />
+    
+    	<item android:id="@+id/menu_advertise"
+          		android:title="Advertise"
+          		android:showAsAction="never" />
+    
+
+    	<item android:id="@+id/menu_email"
+          		android:title="Contact"
+          		android:showAsAction="never" />
+    	
+    	<item android:id="@+id/menu_tos"
+          		android:title="Terms and Policys"
+          		android:showAsAction="never" />
+    </menu>
+    </item>
+
+
+    <item android:id="@+id/menu_welcome"
+          android:title="Welcome"
+          android:showAsAction="never" />
+    
+    
+    
+    <item android:id="@+id/menu_exit"
+          android:title="Exit"
+          android:showAsAction="never" />
+    
+
+</menu>
