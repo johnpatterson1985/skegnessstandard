@@ -7,7 +7,7 @@
 
     <!-- If hide Action bar in Java then set to min sdk 11 else set to 8 -->
     <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="18" />
-    <!-- Git Test 2 Connected from A/S -->
+    <!-- Git Test 3 Connected from A/S -->
     
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
