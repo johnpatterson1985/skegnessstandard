@@ -28,8 +28,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72cbbd90-7316-459a-b7f2-56d1310621ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/res/menu/menu_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/version.xml" afterPath="$PROJECT_DIR$/res/values/version.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SkegnessStandard.iws" />
@@ -144,7 +142,7 @@
       <file leaf-file-name="version.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/values/version.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="42" selection-start="94" selection-end="94" vertical-scroll-proportion="0.10920771" vertical-offset="0" max-vertical-offset="467">
+            <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14561027" vertical-offset="0" max-vertical-offset="467">
               <folding />
             </state>
           </provider>
@@ -578,7 +576,11 @@
       <created>1378763017923</created>
       <updated>1378763017923</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Red button added to Fullscreen Layout ())))))))))) BETA&#10;">
+      <created>1378768052592</created>
+      <updated>1378768052592</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -649,7 +651,8 @@
     <MESSAGE value="Test 2" />
     <MESSAGE value="Git Test 3 Connected from Android Studio (WORKS)" />
     <MESSAGE value="Red button added to Fullscreen Layout&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Red button added to Fullscreen Layout&#10;" />
+    <MESSAGE value="Red button added to Fullscreen Layout ())))))))))) BETA&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Red button added to Fullscreen Layout ())))))))))) BETA&#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -765,7 +768,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/version.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="42" selection-start="94" selection-end="94" vertical-scroll-proportion="0.10920771" vertical-offset="0" max-vertical-offset="467">
+        <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14561027" vertical-offset="0" max-vertical-offset="467">
           <folding />
         </state>
       </provider>
