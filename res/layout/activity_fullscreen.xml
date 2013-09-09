@@ -30,8 +30,9 @@
             style="?buttonBarStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:padding="3dp"
             android:layout_gravity="bottom|center_horizontal"
-            android:background="@color/black_overlay"
+            android:background="@drawable/transparent"
             android:orientation="horizontal"
             tools:ignore="UselessParent" >
 
@@ -39,10 +40,7 @@
             
             <Button
                 android:id="@+id/enter_button"
-                style="?buttonBarButtonStyle"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
+                style="@style/ButtonRed"
                 android:text="@string/enter_button"
                 android:textAllCaps="true"
                 android:onClick="OnClickStartWebView" />

@@ -7,9 +7,9 @@
     <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:background="@color/white_ishf1"
+            android:background="@color/ice_light_blue"
             android:orientation="vertical"
-            android:paddingTop="0.5dp"
+            android:paddingTop="1dp"
             tools:ignore="HardcodedText" >
 
 
@@ -20,13 +20,13 @@
                 android:layout_margin="15dp"
                 android:fontFamily="sans-serif-condensed"
                 android:textSize="18sp"
-                android:textColor="@color/holo_blue"
-                android:text="@string/app_eula"/>
+                android:textColor="@color/black_overlay"
+                android:text="Welcome / Whats new!"/>
 
         <TextView
                 android:layout_width="fill_parent"
-                android:layout_height="0.5dp"
-                android:padding="0.5dp"
+                android:layout_height="1dp"
+                android:padding="1dp"
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="15dp"
                 android:background="@drawable/dotted_line_draw"/>
@@ -40,7 +40,7 @@
                 android:layout_margin="15dp"
                 android:fontFamily="sans-serif-condensed"
                 android:textSize="14sp"
-                android:textColor="@color/holo_gray222222"
+                android:textColor="@color/black_overlay"
                 android:text="@string/app_tos_content1"/>
 
 
@@ -48,7 +48,7 @@
         <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/card_border"
+                android:background="@color/white_ishf8"
                 android:drawableLeft="@drawable/url_link_img"
                 android:paddingTop="15dp"
                 android:paddingBottom="15dp"

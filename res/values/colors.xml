@@ -12,6 +12,12 @@
     <color name="holo_blue_lite">#7acdec</color>
     <color name="holo_purple">#a466aa</color> 
     <color name="holo_orange">#f7901e</color>
+
+    <color name="pp_yellow">#fff799</color>
+    <color name="pink_rose">#f69679</color>
+    <color name="ff4444">#ff4444</color>
+    <color name="ice_light_blue">#e7f8fd</color>
+
     
     <color name="white_ishf1">#f1f1f1</color>
     <color name="white_ishf8">#f8f8f8</color>
