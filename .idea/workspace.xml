@@ -28,6 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72cbbd90-7316-459a-b7f2-56d1310621ca" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/version.xml" afterPath="$PROJECT_DIR$/res/values/version.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SkegnessStandard.iws" />
@@ -132,7 +133,7 @@
       <file leaf-file-name="version.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/values/version.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="12" selection-start="118" selection-end="118" vertical-scroll-proportion="0.11574074" vertical-offset="0" max-vertical-offset="648">
+            <state line="3" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.06944445" vertical-offset="0" max-vertical-offset="648">
               <folding />
             </state>
           </provider>
@@ -576,7 +577,11 @@
       <created>1378768396271</created>
       <updated>1378768396271</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Red button added to Fullscreen Layout ())))))))))) BETA&#10;My update">
+      <created>1378769158511</created>
+      <updated>1378769158511</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -761,7 +766,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/version.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="12" selection-start="118" selection-end="118" vertical-scroll-proportion="0.11574074" vertical-offset="0" max-vertical-offset="648">
+        <state line="3" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.06944445" vertical-offset="0" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
