@@ -42,7 +42,7 @@
     <item android:id="@+id/menu_more"
           android:title="More"
           android:showAsAction="never" >
-          <menu>
+    <menu>
     
     	<item android:id="@+id/menu_login"
           		android:title="Login"
@@ -52,7 +52,6 @@
           		android:title="Advertise"
           		android:showAsAction="never" />
     
-
     	<item android:id="@+id/menu_email"
           		android:title="Contact"
           		android:showAsAction="never" />
@@ -60,16 +59,13 @@
     	<item android:id="@+id/menu_tos"
           		android:title="Terms and Policys"
           		android:showAsAction="never" />
+
+        <item android:id="@+id/menu_welcome"
+            android:title="What's New"
+            android:showAsAction="never" />
     </menu>
     </item>
 
-
-    <item android:id="@+id/menu_welcome"
-          android:title="Welcome"
-          android:showAsAction="never" />
-    
-    
-    
     <item android:id="@+id/menu_exit"
           android:title="Exit"
           android:showAsAction="never" />
