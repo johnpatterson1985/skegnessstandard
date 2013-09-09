@@ -28,7 +28,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72cbbd90-7316-459a-b7f2-56d1310621ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/version.xml" afterPath="$PROJECT_DIR$/res/values/version.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SkegnessStandard.iws" />
@@ -581,7 +580,11 @@
       <created>1378769158511</created>
       <updated>1378769158511</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Red button added to Fullscreen Layout ())))))))))) BETA">
+      <created>1378769291530</created>
+      <updated>1378769291530</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -654,7 +657,8 @@
     <MESSAGE value="Red button added to Fullscreen Layout&#10;" />
     <MESSAGE value="Red button added to Fullscreen Layout ())))))))))) BETA&#10;" />
     <MESSAGE value="Red button added to Fullscreen Layout ())))))))))) BETA&#10;My update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Red button added to Fullscreen Layout ())))))))))) BETA&#10;My update" />
+    <MESSAGE value="Red button added to Fullscreen Layout ())))))))))) BETA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Red button added to Fullscreen Layout ())))))))))) BETA" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
