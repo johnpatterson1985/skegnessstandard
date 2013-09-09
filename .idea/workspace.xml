@@ -27,7 +27,7 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72cbbd90-7316-459a-b7f2-56d1310621ca" name="Default" comment="">
+    <list default="true" id="72cbbd90-7316-459a-b7f2-56d1310621ca" name="Default" comment="Red button added to Fullscreen Layout ())))))))))) BETA">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SkegnessStandard.iws" />
@@ -105,30 +105,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_fullscreen.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_fullscreen.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="33" selection-start="1616" selection-end="1616" vertical-scroll-proportion="-25.0" vertical-offset="0" max-vertical-offset="870">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dialog_welcome.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/dialog_welcome.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="34" selection-start="1197" selection-end="1197" vertical-scroll-proportion="-0.0" vertical-offset="435" max-vertical-offset="1605">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="version.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/values/version.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -153,6 +129,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="johnpatterson1985" />
         <option value="Oscras Saltais" />
         <option value="codetyp" />
       </list>
@@ -584,7 +561,11 @@
       <created>1378769291530</created>
       <updated>1378769291530</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Red button added to Fullscreen Layout ())))))))))) BETA">
+      <created>1378769302879</created>
+      <updated>1378769302879</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -729,7 +710,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="4" selection-start="810" selection-end="810" vertical-scroll-proportion="-0.8372591" vertical-offset="816" max-vertical-offset="2771">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -764,7 +745,11 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="34" selection-start="1197" selection-end="1197" vertical-scroll-proportion="-0.0" vertical-offset="435" max-vertical-offset="1605">
-          <folding />
+          <folding>
+            <element signature="e#1721#1747#0" expanded="false" />
+            <element signature="e#2311#2337#0" expanded="false" />
+            <element signature="e#3549#3570#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
