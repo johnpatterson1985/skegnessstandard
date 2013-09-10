@@ -27,7 +27,17 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72cbbd90-7316-459a-b7f2-56d1310621ca" name="Default" comment="Red button added to Fullscreen Layout ())))))))))) BETA">
+    <list default="true" id="72cbbd90-7316-459a-b7f2-56d1310621ca" name="Default" comment="Red button added to Fullscreen Layout (RETURNED TO NORMAL)">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/button_red.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/button_red_pressed.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/container_rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/container_rocket_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/container_rocket_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/main_screen_rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/xml/pref_general_activity.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sidebar_shadow.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/button_red_selector.xml" afterPath="$PROJECT_DIR$/res/drawable/button_red_selector.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SkegnessStandard.iws" />
@@ -105,10 +115,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="version.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/values/version.xml">
+      <file leaf-file-name="pref_general_activity.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/xml/pref_general_activity.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.06944445" vertical-offset="0" max-vertical-offset="648">
+            <state line="24" column="19" selection-start="863" selection-end="863" vertical-scroll-proportion="0.36772215" vertical-offset="0" max-vertical-offset="979">
               <folding />
             </state>
           </provider>
@@ -146,10 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/co/uk/saltais/skegnessstandard/FullscreenActivity.java" />
-        <option value="$PROJECT_DIR$/src/co/uk/saltais/skegnessstandard/TosDialogTrigger.java" />
-        <option value="$PROJECT_DIR$/src/co/uk/saltais/skegnessstandard/WelcomeDialogTrigger.java" />
-        <option value="$PROJECT_DIR$/src/co/uk/saltais/skegnessstandard/WebViewActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/dialog_tos.xml" />
         <option value="$PROJECT_DIR$/res/values/terms_condicions.xml" />
         <option value="$PROJECT_DIR$/res/values/strings_tos.xml" />
@@ -162,6 +168,10 @@
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/menu/menu_main.xml" />
         <option value="$PROJECT_DIR$/res/values/version.xml" />
+        <option value="$PROJECT_DIR$/res/drawable/sidebar_shadow.xml" />
+        <option value="$PROJECT_DIR$/res/drawable/button_red_selector.xml" />
+        <option value="$PROJECT_DIR$/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/res/xml/pref_general_activity.xml" />
       </list>
     </option>
   </component>
@@ -196,6 +206,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -224,7 +235,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,42 +254,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skegnessstandard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skegnessstandard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skegnessstandard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skegnessstandard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,26 +289,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
+              <option name="myItemId" value="drawable-xxhdpi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="95" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="95" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="ExportedApkPath" value="C:\Users\NASA\Dropbox\OS Work\Android Code\workspace\skegnessstandard\skegnessstandard.apk" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="104" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="ExportedApkPath" value="C:\Users\NASA\Dropbox\OS Work\Android Code\workspace\skegnessstandard\skegnessstandard.apk" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="ExportedModule" value="skegnessstandard" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Software/GitHubSetup.exe" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="96" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="629" />
@@ -341,15 +319,15 @@
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_7" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="reference.settingsdialog.project.gradle" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="HT15JV808187" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="AndroidRunProguardForReleaseBuild" value="false" />
@@ -358,11 +336,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/xml" />
+      <recent name="$PROJECT_DIR$/res/drawable-xxhdpi" />
+      <recent name="$PROJECT_DIR$/res/layout" />
+      <recent name="$PROJECT_DIR$/res/drawable" />
       <recent name="C:\Users\NASA\Dropbox\OS Work\Android Code\workspace\skegnessstandard\res\drawable" />
-      <recent name="C:\Users\NASA\Dropbox\OS Work\Android Code\workspace\skegnessstandard\res\drawable-xhdpi" />
-      <recent name="C:\Users\NASA\Dropbox\OS Work\Android Code\workspace\skegnessstandard\res\values" />
-      <recent name="C:\Users\NASA\Dropbox\OS Work\Android Code\workspace\skegnessstandard\res\layout" />
-      <recent name="C:\Users\codetyp\Dropbox\OS Work\Android Code\workspace\skegnessstandard\res\values" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\NASA\Dropbox\OS Work\Android Code\workspace\skegnessstandard" />
@@ -565,7 +543,11 @@
       <created>1378769302879</created>
       <updated>1378769302879</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Red button added to Fullscreen Layout (RETURNED TO NORMAL)">
+      <created>1378769408027</created>
+      <updated>1378769408027</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -599,17 +581,16 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286991" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286991" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286991" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286991" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19243987" sideWeight="0.49913794" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5180103" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23229167" sideWeight="0.6713009" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23229167" sideWeight="0.8480635" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15193644" sideWeight="0.49913794" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="174" y="130" width="1022" height="538" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17152658" sideWeight="0.49913794" order="8" side_tool="false" content_ui="tabs" />
@@ -620,6 +601,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19243987" sideWeight="0.49913794" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -639,52 +621,14 @@
     <MESSAGE value="Red button added to Fullscreen Layout ())))))))))) BETA&#10;" />
     <MESSAGE value="Red button added to Fullscreen Layout ())))))))))) BETA&#10;My update" />
     <MESSAGE value="Red button added to Fullscreen Layout ())))))))))) BETA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Red button added to Fullscreen Layout ())))))))))) BETA" />
+    <MESSAGE value="Red button added to Fullscreen Layout (RETURNED TO NORMAL)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Red button added to Fullscreen Layout (RETURNED TO NORMAL)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/values/version.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/webkit/WebView.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="28" selection-start="4728" selection-end="4728" vertical-scroll-proportion="0.33182845" vertical-offset="1723" max-vertical-offset="6188" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/co/uk/saltais/skegnessstandard/WebViewActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="29" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="4454" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3757" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="189" column="54" selection-start="10814" selection-end="10814" vertical-scroll-proportion="0.44310346" vertical-offset="2956" max-vertical-offset="3536" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/button_red_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="53" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.6595289" vertical-offset="678" max-vertical-offset="1258">
@@ -734,9 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/menu/menu_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="4" selection-start="1734" selection-end="1734" vertical-scroll-proportion="0.81205314" vertical-offset="0" max-vertical-offset="1185">
-          <folding />
-        </state>
+        <state line="53" column="4" selection-start="1734" selection-end="1734" vertical-scroll-proportion="0.81205314" vertical-offset="0" max-vertical-offset="1185" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/dialog_welcome.xml">
@@ -753,9 +695,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.055901" vertical-offset="9714" max-vertical-offset="10770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/button_red_pressed.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/button_red_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/sidebar_shadow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.015321757" vertical-offset="0" max-vertical-offset="979">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/changelog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="979">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="254" selection-end="254" vertical-scroll-proportion="0.12605043" vertical-offset="0" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/version.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.06944445" vertical-offset="0" max-vertical-offset="648">
+        <state line="5" column="12" selection-start="112" selection-end="112" vertical-scroll-proportion="0.076608784" vertical-offset="0" max-vertical-offset="979">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/pref_general_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="19" selection-start="863" selection-end="863" vertical-scroll-proportion="0.36772215" vertical-offset="0" max-vertical-offset="979">
           <folding />
         </state>
       </provider>
